@@ -28,6 +28,8 @@ Qué temática te gustaría más: Personajes de caricaturas
 
 # Prototipo de baja fidelidad
 
+![Baja fidelidad](src/utilities/imagenes%20readme/prototipobajafidelidad.jpg)
+
 # Prototipo de alta fidelidad en power point
 
 ![Prototipo](./src/utilities/imagenesReadme/prototipo1.jpg)
