@@ -6,8 +6,10 @@ Memory Cartoon es un juego de memoria inspirado en los cartoons de los años 90 
 
 Las historias de usuario se generan a partir de potenciales usuarios. Es por eso que desarrollamos una encuesta en los Formularios de Google, destacándose para nuestros usuarios objetivo los siguientes items:
 Tu principal motivo de jugar Memory-Match seria: diversión
+![Prototipo](./src/utilities/imagenesReadme/motivo.jpg)
 ¿Qué te gustaría visualizar en el Memory-Match? Pantalla de bienvenida, tablero .
 Qué temática te gustaría más: Personajes de caricaturas
+![Prototipo](./src/utilities/imagenesReadme/tematica.jpg)
 ¿Qué efectos auditivos te gustaría? Música de fondo.
 
 # Criterios de aceptación:
@@ -27,6 +29,13 @@ Qué temática te gustaría más: Personajes de caricaturas
 # Prototipo de baja fidelidad
 
 # Prototipo de alta fidelidad en power point
+
+![Prototipo](./src/utilities/imagenesReadme/prototipo1.jpg)
+![Prototipo](./src/utilities/imagenesReadme/prototipo2.jpg)
+![Prototipo](./src/utilities/imagenesReadme/prototipo3.jpg)
+![Prototipo](./src/utilities/imagenesReadme/prototipo4.jpg)
+![Prototipo](./src/utilities/imagenesReadme/prototipo5.jpg)
+![Prototipo](./src/utilities/imagenesReadme/prototipo6.jpg)
 
 # Test de usabilidad
 
