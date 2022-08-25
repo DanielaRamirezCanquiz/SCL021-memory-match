@@ -133,7 +133,6 @@ body {
 .buttonReplay {
   display: flex;
   justify-content: center;
-  margin-top: 1%;
 }
 
 #name::placeholder {
@@ -162,9 +161,9 @@ body {
   text-align: center;
   color: #003a70;
   background-color: rgba(255, 255, 255, 0.7);
-  margin-top: 2%;
   font-size: 25px;
   font-family: "Handlee";
+  margin-top: 1%;
 }
 
 .greeting {
@@ -203,7 +202,7 @@ body {
   width: 90%;
   background-color: rgba(255, 255, 255, 0.7);
   margin-left: 5%;
-  margin-top: 2%;
+  margin-top: 1%;
   padding: 1%;
 }
 
@@ -219,7 +218,6 @@ body {
   justify-content: center;
   background-color: rgba(255, 255, 255, 0.7);
   perspective: 1000px;
-  padding: 1%;
   transform: rotateY(0deg);
 }
 @media only screen and (max-width: 600px) {
@@ -239,6 +237,7 @@ body {
   cursor: pointer;
   margin: 1%;
 }
+
 @media only screen and (max-width: 400px) {
   .card {
     flex-direction: row;
@@ -275,7 +274,7 @@ body {
   transform: rotateY(180deg);
 }
 .winGame {
-  margin-top: 2%;
+  margin-top: 1%;
   display: flex;
   flex-direction: column;
   justify-content: center;
