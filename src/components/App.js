@@ -21,14 +21,14 @@ const doubledCards = comicsCard.concat(comicsCard); // se copia a si mismo, dupl
 
 //Barajar las cartas, algoritmo de Fisher-Yates
 let i = doubledCards.length,
-  j,
-  temp; //j es un número random que se generará en el loop. temp guarda el valor temporal para hacer los intercambios
+  j, //j es un número random que se generará en el loop.
+  temp; //temp guarda el valor temporal para hacer los intercambios
 while (--i > 0) {
   //el array comienza con la cantidad total de cartas y cada vez va restando 1.
   j = Math.floor(Math.random() * (i + 1)); //establecemos valor para j, generamos un número random entre 0 e i
   temp = doubledCards[j]; // establecemos el temp. llamamos al índice j de nuestro array
   doubledCards[j] = doubledCards[i]; //tomamos el array en su índice random (j) y lo cambiamos por el índice que está en el loop (i)
-  doubledCards[i] = temp; //tomamos el la posición del índice (i)  y le damos el valor de temp.
+  doubledCards[i] = temp; //tomamos  la posición del índice (i)  y le damos el valor de temp.
 }
 
 const App = () => {
