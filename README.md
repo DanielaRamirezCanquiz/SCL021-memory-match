@@ -2,6 +2,11 @@
 
 Memory Cartoon es un juego de memoria inspirado en los cartoons de los años 90 y consiste en encontrar pares de cartas, abriendo dos pares a la vez hasta encontrar los 7 pares de cartas. El juego está diseñado para un público joven y se juega individualmente en diferentes dispositivos electrónicos como computadoras portátiles o teléfonos móviles.
 
+# Aqui puedes ver nuestro proyecto
+
+https://bemm12.github.io/SCL021-memory-match/index.html
+https://danielaramirezcanquiz.github.io/SCL021-memory-match/
+
 # Historias de usuario
 
 Las historias de usuario se generan a partir de potenciales usuarios. Es por eso que desarrollamos una encuesta en los Formularios de Google, destacándose para nuestros usuarios objetivo los siguientes items:
